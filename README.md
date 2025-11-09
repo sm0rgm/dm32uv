@@ -47,10 +47,9 @@ CSV-filerna kan du använda om du har en befintlig radio eller kodplugg som du v
 
 Om du snabbt och enkelt vill starta en ny kodplugg eller koda upp en ny radio så finns det en färdig fil med alla inställningar gjorda som heter N0CALL.data.
 
-Starta CPS-programmet och välj File -> Open och välj N0CALL.data. Gå till fliken DMR ID and callsign och ändra Callsign och DMR ID till och dina egna. 
+Starta CPS-programmet och välj File -> Open och välj N0CALL.data. Gå till Digital -> DMR ID och ändra ID och Name till ditt eget ID och anropssignal. Sedan är det bara att skriva kodplugg + digitala kontakter till radion.
 
 Förmodligen vill du ändra på fler saker, men det överlåter jag till dig att fixa med själv.
-
 
 ### Uppdatera befintlig kodplugg
 
@@ -58,8 +57,14 @@ Om du bara vill uppdatera din radio med kanaler, zoner och talgrupper men låta 
 
 ## Suffix i repeaternamn
 
-För att indikera typ av repeater eller vilket nätverk den är ansluten mot finns numera en eller flera bokstäver som suffix till repeaterns namn. Om repeatern är ansluten till Brandmeister för DMR eller är en lokal FM-repeater utan anslutning till reflektornätverk finns ingen bokstav angiven. Bokstäverna betyder:
+För att indikera typ av repeater eller vilket nätverk den är ansluten mot finns numera en eller flera bokstäver som suffix till repeaterns namn. Om repeatern är ansluten till Brandmeister för DMR eller är en lokal FM-repeater utan anslutning till reflektornätverk finns ingen bokstav angiven. 
 
+För att underlätta för instegsamatörer har numera kanalnamnet en indikering om kkanalen är 2m (V) eller 70 cm (U).
+
+Bokstäverna betyder:
+
+V = VHF 2m
+U = UHF 70 cm
 L = Link (simplex)
 A = AllstarLink
 S = SVXlink
