@@ -45,7 +45,7 @@ Jag rekommenderar att du hämtar filerna som jag har packat ihop i en [release](
 
 CSV-filerna kan du använda om du har en befintlig radio eller kodplugg som du vill uppdatera med kanaler, zoner, talgrupper etc. 
 
-Om du snabbt och enkelt vill starta en ny kodplugg eller koda upp en ny radio så finns det en färdig fil med alla inställningar gjorda som heter N0CALL.g77.
+Om du snabbt och enkelt vill starta en ny kodplugg eller koda upp en ny radio så finns det en färdig fil med alla inställningar gjorda som heter N0CALL.data.
 
 Starta CPS-programmet och välj File -> Open och välj N0CALL.data. Gå till fliken DMR ID and callsign och ändra Callsign och DMR ID till och dina egna. 
 
