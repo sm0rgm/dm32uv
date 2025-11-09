@@ -1,0 +1,2 @@
+No.,Scan Name,CTC Scan Mode,Scan Tx Mode,Hang Time,Priority Channel 1,Priority Channel 2,Designed Channel,Priority Sweep Time,Talkback,Channel Members
+1,Default,Detection CTC,Current Channel,3.0,None,None,,500,0,145.500|433.500|145.375|433.450|
