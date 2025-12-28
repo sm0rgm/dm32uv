@@ -1,40 +1,40 @@
 No.,Channel Name,Channel Type,RX Frequency[MHz],TX Frequency[MHz],Power,Band Width,Scan List,TX Admit,Emergency System,Squelch Level,APRS Report Type,Forbid TX,APRS Receive,Forbid Talkaround,Auto Scan,Lone Work,Emergency Indicator,Emergency ACK,Analog APRS PTT Mode,Digital APRS PTT Mode,TX Contact,RX Group List,Color Code,Time Slot,Encryption,Encryption ID,APRS Report Channel,Direct Dual Mode,Private Confirm,Short Data Confirm,DMR ID,CTC/DCS Decode,CTC/DCS Encode,Scramble,RX Squelch Mode,Signaling Type,PTT ID,VOX Function,PTT ID Display
 1,Botkyrka 2 U,Digital,434.87500,432.87500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-2,Brottby 1 V,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-3,Brottby 2 U,Analog,434.80000,432.80000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-4,Dalaro U,Digital,434.83750,432.83750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-5,Hagsatra UL,Analog,434.42500,434.42500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,91.5,91.5,None,Carrier/CTC,None,OFF,0,0
-6,Haninge 1 V,Analog,145.68750,145.08750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-7,Haninge 2 U,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-8,Haninge 3 U,Analog,434.77500,432.77500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-9,Haninge 4 U,Digital,434.63750,432.63750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-10,Haninge 5 U,Digital,434.56250,432.56250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-11,Hogdalen V,Digital,145.57500,144.97500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-12,Ingaro 2 VSE,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-13,Johanneshov U,Digital,434.92500,432.92500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-14,Kista 3 US,Analog,434.62500,432.62500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-15,Kista 7 VS,Analog,145.78750,145.18750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-16,Kopparmora UL,Analog,434.48750,434.48750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,91.5,91.5,None,Carrier/CTC,None,OFF,0,0
-17,Mariefred VS,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
-18,Nynashamn 1 V,Analog,145.71250,145.11250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,123.0,123.0,None,Carrier/CTC,None,OFF,0,0
-19,Nynashamn 2 U,Digital,434.61250,432.61250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-20,Nynashamn 7 V,Digital,145.58750,144.98750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-21,Rimbo U,Digital,434.78750,432.78750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-22,Sandhamn UL,Analog,434.37500,434.37500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,91.5,91.5,None,Carrier/CTC,None,OFF,0,0
-23,Sigtuna U,Fixed Digital,434.88750,432.88750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,123.0,123.0,None,Carrier/CTC,None,OFF,0,0
-24,Stockholm 1 VS,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-25,Stockholm 2 VS,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-26,Stockholm 3 U,Digital,434.96250,432.96250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-27,Soder U,Analog,434.72500,432.72500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-28,Sodertalje 4 U,Digital,434.87500,432.87500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-29,Tyreso U+,Digital,434.51250,432.51250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,12,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-30,Taby 2 U,Analog,434.73750,432.73750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-31,Upplands_Vas 1 U,Analog,434.67500,432.67500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-32,Upplands_Vas 2 U,Digital,434.76250,432.76250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-33,Vallentuna 3 U,Digital,434.55000,432.55000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-34,Vallentuna 4 U,Analog,434.70000,432.70000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-35,Vallentuna 5 U,Analog,434.85000,432.85000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-36,Vallentuna 6 V,Analog,145.67500,145.07500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+2,Brottby 2 U,Analog,434.80000,432.80000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+3,Dalaro U,Digital,434.83750,432.83750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+4,Djuro U,Fixed Digital,434.58750,432.58750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+5,Haninge 1 V,Analog,145.68750,145.08750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+6,Haninge 2 U,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+7,Haninge 3 U,Analog,434.77500,432.77500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+8,Haninge 4 U,Digital,434.63750,432.63750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+9,Haninge 5 U,Digital,434.56250,432.56250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+10,Hogdalen V,Digital,145.57500,144.97500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+11,Ingaro 2 VSE,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+12,Johanneshov U,Digital,434.92500,432.92500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+13,Kista 3 US,Analog,434.62500,432.62500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+14,Kopparmora UL,Analog,434.48750,434.48750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,91.5,91.5,None,Carrier/CTC,None,OFF,0,0
+15,Nynashamn 1 V,Analog,145.71250,145.11250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,123.0,123.0,None,Carrier/CTC,None,OFF,0,0
+16,Nynashamn 2 U,Digital,434.61250,432.61250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+17,Nynashamn 7 V,Digital,145.58750,144.98750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+18,Rimbo U,Digital,434.78750,432.78750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+19,Sandhamn UL,Analog,434.37500,434.37500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,91.5,91.5,None,Carrier/CTC,None,OFF,0,0
+20,Sigtuna U,Fixed Digital,434.88750,432.88750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,123.0,123.0,None,Carrier/CTC,None,OFF,0,0
+21,Stockholm 1 VS,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+22,Stockholm 2 VS,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+23,Stockholm 3 U,Digital,434.96250,432.96250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+24,Soder U,Analog,434.72500,432.72500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+25,Sodertalje 4 U,Digital,434.87500,432.87500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+26,Sodertalje 5 V,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+27,Tyreso U+,Digital,434.51250,432.51250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,12,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+28,Taby 2 U,Fixed Digital,434.73750,432.73750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+29,Upplands_Vas 1 U,Analog,434.67500,432.67500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+30,Upplands_Vas 2 U,Digital,434.76250,432.76250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+31,Vallentuna 3 U,Digital,434.55000,432.55000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+32,Vallentuna 4 U,Analog,434.70000,432.70000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+33,Vallentuna 5 U,Analog,434.85000,432.85000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+34,Vallentuna 6 V,Analog,145.67500,145.07500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+35,Vallentuna 7 U,Analog,434.92500,432.92500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+36,Varmdo U,Fixed Digital,434.97500,432.97500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
 37,Vastberga 1 VS,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
 38,Vastberga 2 U,Analog,434.90000,432.90000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,123.0,123.0,None,Carrier/CTC,None,OFF,0,0
 39,Almsta 1 V,Digital,145.73750,145.13750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
@@ -100,7 +100,7 @@ No.,Channel Name,Channel Type,RX Frequency[MHz],TX Frequency[MHz],Power,Band Wid
 99,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
 100,Endre V,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM1,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,218.1,218.1,None,Carrier/CTC,None,OFF,0,0
 101,Slite U,Analog,434.60000,432.60000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM1,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,218.1,218.1,None,Carrier/CTC,None,OFF,0,0
-102,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
+102,Visby VS,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM1,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,218.1,218.1,None,Carrier/CTC,None,OFF,0,0
 103,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
 104,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
 105,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
@@ -204,29 +204,29 @@ No.,Channel Name,Channel Type,RX Frequency[MHz],TX Frequency[MHz],Power,Band Wid
 203,Burtrask US,Analog,434.95000,432.95000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
 204,Kalix 1 V,Fixed Digital,145.72500,145.12500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,2,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
 205,Kalix 3 U,Digital,434.75000,432.75000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,2,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-206,Kalix 4 U,Digital,434.98750,432.98750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,2,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-207,Kalix-Vattento U,Fixed Digital,434.72500,432.72500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,2,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
-208,Kiruna 1 V,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
-209,Kiruna 2 U,Digital,434.51250,432.51250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,2,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-210,Kiruna 3 U,Analog,434.82500,432.82500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
-211,Kiruna 4 ULS,Analog,434.40000,434.40000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-212,Lulea 1 V,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
-213,Lulea 2 U,Digital,434.90000,432.90000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,2,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-214,Lycksele V,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
-215,Pitea 1 V,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
-216,Pitea 2 U,Analog,434.60000,432.60000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
-217,Pitea 3 U,Digital,434.85000,432.85000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,2,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-218,Seskaro V,Fixed Digital,145.67500,145.07500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,2,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
-219,Skelleftea 1 V,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-220,Skelleftea 2 V,Fixed Digital,145.58750,144.98750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
-221,Skelleftea 3 US,Analog,434.67500,432.67500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
-222,Skelleftea 4 V,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-223,Storuman 1 V,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-224,Storuman 2 US,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
-225,Umea V,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-226,Vindeln,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-227,Vannas 1 V,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-228,Vannas 2 USE,Analog,434.72500,432.72500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
+206,Kalix-Vattento U,Fixed Digital,434.72500,432.72500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,2,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
+207,Kiruna 1 V,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
+208,Kiruna 2 U,Digital,434.51250,432.51250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,2,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+209,Kiruna 3 U,Analog,434.82500,432.82500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
+210,Lulea 1 V,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
+211,Lulea 2 U,Digital,434.90000,432.90000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,2,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+212,Lycksele V,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
+213,Pitea 1 V,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
+214,Pitea 2 U,Analog,434.60000,432.60000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
+215,Pitea 3 U,Digital,434.85000,432.85000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,2,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+216,Seskaro V,Fixed Digital,145.67500,145.07500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,2,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
+217,Skelleftea 1 V,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+218,Skelleftea 2 V,Fixed Digital,145.58750,144.98750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
+219,Skelleftea 3 US,Analog,434.67500,432.67500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
+220,Skelleftea 4 V,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+221,Storuman 1 V,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+222,Storuman 2 US,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
+223,Umea V,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+224,Vindeln,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+225,Vannas 1 V,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+226,Vannas 2 USE,Analog,434.72500,432.72500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
+227,Vannas 3 U,Digital,434.97500,432.97500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,2,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+228,Alvsbyn VS,Analog,145.67500,145.07500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
 229,Vannas 3 U,Digital,434.97500,432.97500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,2,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
 230,Alvsbyn VS,Analog,145.67500,145.07500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM2,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,107.2,107.2,None,Carrier/CTC,None,OFF,0,0
 231,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
@@ -322,17 +322,17 @@ No.,Channel Name,Channel Type,RX Frequency[MHz],TX Frequency[MHz],Power,Band Wid
 321,Solleftea 1 V,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
 322,Solleftea 2 U,Analog,434.92500,432.92500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,127.3,127.3,None,Carrier/CTC,None,OFF,0,0
 323,Sundsvall 1 VSE,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,127.3,127.3,None,Carrier/CTC,None,OFF,0,0
-324,Sundsvall 3 U,Digital,434.80000,432.80000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,1,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-325,Sundsvall 4 U,Digital,434.98750,432.98750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,3,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-326,Soderhamn 2 V,Analog,145.75000,145.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-327,Soderhamn 4 U,Analog,434.75000,433.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-328,Arsunda U,Analog,434.65000,436.25000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,88.5,88.5,None,Carrier/CTC,None,OFF,0,0
-329,Ornskoldsvi 2 VS,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,110.9,110.9,None,Carrier/CTC,None,OFF,0,0
-330,Ornskoldsvi 3 US,Analog,434.87500,432.87500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,110.9,110.9,None,Carrier/CTC,None,OFF,0,0
-331,Ornskoldsvik 4 U,Digital,434.77500,432.77500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,3,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-332,Osterfarneb 2 US,Analog,434.85000,432.85000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,127.3,127.3,None,Carrier/CTC,None,OFF,0,0
-333,Ostersund 1 V,Analog,145.75000,145.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,127.3,127.3,None,Carrier/CTC,None,OFF,0,0
-334,Ostersund 2 VS,Analog,145.78750,145.18750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,127.3,127.3,None,Carrier/CTC,None,OFF,0,0
+324,Soderhamn 2 V,Analog,145.75000,145.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+325,Soderhamn 4 U,Analog,434.75000,433.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+326,Arsunda U,Analog,434.65000,436.25000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,88.5,88.5,None,Carrier/CTC,None,OFF,0,0
+327,Ornskoldsvi 2 VS,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,110.9,110.9,None,Carrier/CTC,None,OFF,0,0
+328,Ornskoldsvi 3 US,Analog,434.87500,432.87500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,110.9,110.9,None,Carrier/CTC,None,OFF,0,0
+329,Ornskoldsvik 4 U,Digital,434.77500,432.77500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,3,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+330,Osterfarneb 2 US,Analog,434.85000,432.85000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,127.3,127.3,None,Carrier/CTC,None,OFF,0,0
+331,Ostersund 1 V,Analog,145.75000,145.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,127.3,127.3,None,Carrier/CTC,None,OFF,0,0
+332,Ostersund 2 VS,Analog,145.78750,145.18750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,127.3,127.3,None,Carrier/CTC,None,OFF,0,0
+333,Ostersund 3 U,Digital,434.56250,432.56250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,3,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+334,Ostersund 4 UE,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,127.3,127.3,None,Carrier/CTC,None,OFF,0,0
 335,Ostersund 3 U,Digital,434.56250,432.56250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,3,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
 336,Ostersund 4 UE,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM3,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,127.3,127.3,None,Carrier/CTC,None,OFF,0,0
 337,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
@@ -399,26 +399,26 @@ No.,Channel Name,Channel Type,RX Frequency[MHz],TX Frequency[MHz],Power,Band Wid
 398,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
 399,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
 400,Arvika 1 U,Analog,434.77500,432.77500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
-401,Arvika 2 U,Digital,434.97500,432.97500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,4,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-402,Borlange 1 US,Analog,434.80000,432.80000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
-403,Borlange 2 U,Digital,434.85000,432.85000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,12,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-404,Eksharad UHI,Digital,433.20000,433.20000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-405,Falun 1 VS,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
-406,Falun 2 U,Digital,434.62500,432.62500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,1,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-407,Garphyttan V,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
-408,Grums U,Analog,434.72500,432.72500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
-409,Grangesberg VL,Analog,145.35000,145.35000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-410,Hagfors 2 VE,Analog,145.67500,145.07500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-411,Karlskoga 1 V,Fixed Digital,145.75000,145.15000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,4,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
-412,Karlskoga 2 U,Fixed Digital,434.80000,432.80000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,4,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-413,Karlstad VS,Analog,145.57500,144.97500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
-414,Kopparberg 1 V,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-415,Leksand 2 VI,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
-416,Leksand 3 U,Fixed Digital,434.61250,432.61250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
-417,Lindesberg 1 V,Analog,145.68750,145.08750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
-418,Lindesberg 2 VLS,Analog,145.30000,145.30000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,136.5,136.5,None,Carrier/CTC,None,OFF,0,0
-419,Ludvika 1 V,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-420,Ludvika 2 U,Analog,434.72500,433.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+401,Borlange 1 US,Analog,434.80000,432.80000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
+402,Borlange 2 U,Digital,434.85000,432.85000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,12,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+403,Eksharad UHI,Digital,433.20000,433.20000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+404,Falun 1 VS,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
+405,Falun 2 U,Digital,434.62500,432.62500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,1,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+406,Garphyttan V,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
+407,Grums U,Analog,434.72500,432.72500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
+408,Grangesberg VL,Analog,145.35000,145.35000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+409,Hagfors 2 VE,Analog,145.67500,145.07500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+410,Karlskoga 1 V,Fixed Digital,145.75000,145.15000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,4,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
+411,Karlskoga 2 U,Fixed Digital,434.80000,432.80000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,4,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+412,Karlstad VS,Analog,145.57500,144.97500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
+413,Kopparberg 1 V,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+414,Leksand 2 VI,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
+415,Leksand 3 U,Fixed Digital,434.61250,432.61250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
+416,Lindesberg 1 V,Analog,145.68750,145.08750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
+417,Lindesberg 2 VLS,Analog,145.30000,145.30000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,136.5,136.5,None,Carrier/CTC,None,OFF,0,0
+418,Ludvika 1 V,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+419,Ludvika 2 U,Analog,434.72500,433.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+420,Ludvika 3 V,Fixed Digital,145.66250,145.06250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,4,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
 421,Malung VH,Digital,144.83750,144.83750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,4,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
 422,Mora 3 U,Analog,434.70000,432.70000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
 423,Nybble VLS,Analog,145.30000,145.30000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
@@ -426,18 +426,18 @@ No.,Channel Name,Channel Type,RX Frequency[MHz],TX Frequency[MHz],Power,Band Wid
 425,Orsa 1 VE,Analog,145.75000,145.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
 426,Orsa 2 US,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
 427,Orsa 3 VLS,Analog,145.27500,145.27500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-428,Smedjebacken U,Digital,434.63750,432.63750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,4,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-429,Sunne 1 V,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
-430,Sunne 2 UHI,Digital,432.50000,432.50000,High,12.5KHz,None,Always,None,3,Off,0,0,1,0,0,0,0,0,0,Regional SM4,Default,1,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-431,Salen VS,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
-432,Torsby 1 VL,Analog,145.28750,145.28750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
-433,Torsby 2 U,Analog,434.62500,432.62500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-434,Vansbro 1 V,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
-435,Vansbro 3 U,Digital,434.66250,432.66250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,4,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-436,Arjang V,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-437,Alvdalen 1 ULS,Analog,434.50000,434.50000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,250.3,250.3,None,Carrier/CTC,None,OFF,0,0
-438,Orebro 1 V,Analog,145.71250,145.11250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-439,Orebro 2 U,Digital,434.72500,432.72500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,4,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+428,Sunne 1 V,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
+429,Sunne 2 UHI,Digital,432.50000,432.50000,High,12.5KHz,None,Always,None,3,Off,0,0,1,0,0,0,0,0,0,Regional SM4,Default,1,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+430,Salen VS,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
+431,Torsby 1 VL,Analog,145.28750,145.28750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
+432,Torsby 2 U,Analog,434.62500,432.62500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+433,Vansbro 1 V,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
+434,Vansbro 3 U,Digital,434.66250,432.66250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,4,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+435,Arjang V,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+436,Alvdalen 1 ULS,Analog,434.50000,434.50000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,250.3,250.3,None,Carrier/CTC,None,OFF,0,0
+437,Orebro 1 VS,Analog,145.71250,145.11250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+438,Orebro 2 U,Digital,434.72500,432.72500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,4,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+439,Vansbro 4 U,Analog,434.65000,433.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM4,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
 440,Vansbro 4 U,Analog,434.65000,433.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,85.4,85.4,None,Carrier/CTC,None,OFF,0,0
 441,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
 442,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
@@ -508,34 +508,34 @@ No.,Channel Name,Channel Type,RX Frequency[MHz],TX Frequency[MHz],Power,Band Wid
 507,Flen 1 V,Digital,145.63750,145.03750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
 508,Flen 2 V,Analog,145.76250,145.16250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,103.5,103.5,None,Carrier/CTC,None,OFF,0,0
 509,Flen 3 US,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,91.5,91.5,None,Carrier/CTC,None,OFF,0,0
-510,Jarlasa V,Fixed Digital,145.62500,145.02500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+510,Jarlasa 2 V,Fixed Digital,145.57500,144.97500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
 511,Kisa V,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
 512,Knivsta U,Fixed Digital,434.52500,432.52500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
-513,Linkoping 1 VS,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
-514,Linkoping 2 V,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-515,Linkoping 3 VS,Analog,145.78750,145.18750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
-516,Linkoping 4 U,Digital,434.51250,432.51250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-517,Linkoping 5 U,Analog,434.80000,432.80000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-518,Linkoping 6 U,Analog,434.82500,432.82500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
-519,Linkoping 7 U,Fixed Digital,434.87500,432.87500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
-520,Motala V,Analog,145.73750,145.13750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,91.5,91.5,None,Carrier/CTC,None,OFF,0,0
-521,Norrkoping 2 V,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
-522,Norrkoping 3 US,Analog,434.60000,432.60000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
-523,Norrkoping 4 U,Fixed Digital,434.95000,432.95000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
-524,Norrkoping 5 U,Analog,434.66250,432.66250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-525,Norrkopin 6 VLSE,Analog,145.23750,145.23750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-526,Nykoping 2 U,Digital,434.63750,432.63750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-527,Sala 1 VE,Analog,145.71250,145.11250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
-528,Stigtomta VLF,Digital,145.28750,145.28750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-529,Uppsala 1 VS,Analog,145.58750,144.98750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,136.5,136.5,None,Carrier/CTC,None,OFF,0,0
-530,Uppsala 2 V,Analog,145.75000,145.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
-531,Uppsala 3 UH,Digital,434.37500,434.37500,High,12.5KHz,None,Always,None,3,Off,0,0,1,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-532,Uppsala 4 U,Digital,434.51250,432.51250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,1,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-533,Uppsala 5 U,Fixed Digital,434.58750,432.58750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
-534,Uppsala 6 U,Digital,434.63750,432.63750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-535,Uppsala 8 VLS,Analog,144.57500,144.57500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-536,Uppsala 9 ULS,Analog,433.45000,433.45000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-537,Vasteras 1 VS,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
+513,Linkoping 2 V,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+514,Linkoping 3 VS,Analog,145.78750,145.18750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
+515,Linkoping 6 US,Analog,434.82500,432.82500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
+516,Mariefred VS,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
+517,Motala V,Analog,145.73750,145.13750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,91.5,91.5,None,Carrier/CTC,None,OFF,0,0
+518,Norrkoping 2 V,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
+519,Norrkoping 3 US,Analog,434.60000,432.60000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
+520,Norrkoping 4 U,Fixed Digital,434.95000,432.95000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
+521,Norrkoping 5 U,Analog,434.66250,432.66250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+522,Norrkopin 6 VLSE,Analog,145.23750,145.23750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+523,Norrkoping 7 U,Digital,434.53750,432.53750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+524,Nykoping 2 U,Digital,434.63750,432.63750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+525,Sala 1 VE,Analog,145.71250,145.11250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
+526,Stigtomta VLF,Digital,145.28750,145.28750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+527,Uppsala 1 VS,Analog,145.58750,144.98750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,136.5,136.5,None,Carrier/CTC,None,OFF,0,0
+528,Uppsala 2 V,Analog,145.75000,145.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
+529,Uppsala 3 UH,Digital,434.37500,434.37500,High,12.5KHz,None,Always,None,3,Off,0,0,1,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+530,Uppsala 4 U,Digital,434.51250,432.51250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,1,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+531,Uppsala 5 U,Fixed Digital,434.58750,432.58750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
+532,Uppsala 6 U,Digital,434.63750,432.63750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,5,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+533,Uppsala 8 VLS,Analog,144.57500,144.57500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+534,Uppsala 9 ULS,Analog,433.45000,433.45000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+535,Vasteras 1 VS,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
+536,Vasteras 3 US,Analog,434.77500,432.77500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
+537,Atvidaberg VSE,Analog,145.66250,145.06250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
 538,Vasteras 3 US,Analog,434.77500,432.77500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
 539,Atvidaberg VSE,Analog,145.66250,145.06250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM5,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,82.5,82.5,None,Carrier/CTC,None,OFF,0,0
 540,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
@@ -609,70 +609,70 @@ No.,Channel Name,Channel Type,RX Frequency[MHz],TX Frequency[MHz],Power,Band Wid
 608,Boras 2 V,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
 609,Boras 3 U,Digital,434.55000,432.55000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
 610,Boras 4 U,Analog,434.80000,432.80000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-611,Dingle U,Digital,434.88750,432.88750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-612,Falkenberg VS,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
-613,Floda 1 ULI,Analog,433.47500,433.47500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-614,Floda 2 U,Fixed Digital,434.82500,432.82500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
-615,Guldheden 1 U,Analog,434.97500,432.97500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-616,Guldheden 2 VLE,Analog,144.57500,144.57500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
-617,Guldheden 3 U,Digital,434.78750,432.78750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-618,Guldheden 4 US,Analog,434.65000,432.65000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-619,Guldheden 5 VS,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-620,Guldheden 6 VLE,Analog,144.67500,144.67500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
-621,Guldheden 7 U,Analog,434.60000,432.60000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-622,Halmstad 1 VS,Analog,145.67500,145.07500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-623,Halmstad 2 U,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-624,Halmstad 3 U,Fixed Digital,434.92500,432.92500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-625,Hjo VLS,Analog,145.23750,145.23750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-626,Hono 1 VLE,Analog,144.62500,144.62500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
-627,Karlsborg V,Analog,145.76250,145.16250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,94.8,94.8,None,Carrier/CTC,None,OFF,0,0
-628,Kinnekulle 1 V,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-629,Kinnekulle 2 U,Analog,434.95000,432.95000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-630,Kortedala 1 VLE,Analog,144.60000,144.60000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
-631,Kortedala 2 V,Digital,145.58750,144.98750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-632,Kungsbacka 1 VLE,Analog,144.65000,144.65000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
-633,Kungsbacka 2 V,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-634,Kungsbacka 3 U,Analog,434.72500,432.72500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-635,Kungshamn VS,Fixed Digital,145.67500,145.07500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,94.8,94.8,None,Carrier/CTC,None,OFF,0,0
-636,Kungalv 1 V,Analog,145.61250,145.01250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-637,Kungalv 2 U,Analog,434.73750,432.73750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-638,Kungalv 3 U,Analog,434.90000,432.90000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-639,Lysekil US,Analog,434.80000,432.80000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
-640,Langedrag VLE,Analog,144.52500,144.52500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
-641,Mariestad UE,Analog,434.90000,432.90000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-642,Myggenas VLE,Analog,144.66250,144.66250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
-643,Molndal 1 VEI,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
-644,Molndal 2 UEI,Analog,434.70000,432.70000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
-645,Molnlycke VLE,Analog,144.58750,144.58750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
-646,Skara 1 V,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-647,Skara 2 U,Analog,434.56250,432.56250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-648,Skara 3 U,Fixed Digital,434.98750,432.98750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-649,Skene 1 VEI,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,94.8,94.8,None,Carrier/CTC,None,OFF,0,0
-650,Skene 2 UHI,Digital,433.56250,433.56250,High,12.5KHz,None,Always,None,3,Off,0,0,1,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-651,Skene 3 UEI,Analog,434.95000,432.95000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,94.8,94.8,None,Carrier/CTC,None,OFF,0,0
-652,Skarsjon VLE,Analog,144.55000,144.55000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
-653,Skovde 1 V,Analog,145.68750,145.08750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-654,Skovde 2 U,Analog,434.82500,432.82500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-655,Stenungsun 2 VSE,Fixed Digital,145.71250,145.11250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-656,Tanumshede VS,Fixed Digital,145.57500,144.97500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
-657,Tidaholm V,Analog,145.63750,145.03750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
-658,Torup US,Analog,434.88750,432.88750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-659,Trollhattan 1 V,Fixed Digital,145.76250,145.16250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-660,Trollhattan 3,Fixed Digital,434.87500,432.87500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
-661,Uddevalla 1 VS,Fixed Digital,145.73750,145.13750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-662,Ulricehamn 1 V,Analog,145.67500,145.07500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
-663,Ulricehamn 2 U,Analog,434.67500,432.67500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
-664,Varberg 1 V,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-665,Varberg 2 U,Analog,434.70000,432.70000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-666,Vedum VS,Analog,145.78750,145.18750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,218.1,218.1,None,Carrier/CTC,None,OFF,0,0
-667,Vargarda U,Analog,434.85000,432.85000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
-668,Amal U,Analog,434.60000,432.60000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-669,Alvangen U,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-670,Ockero 1 VS,Analog,145.75000,145.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
-671,Ockero 2 U,Digital,434.85000,432.85000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-672,Orby 1 VLSE,Analog,145.23750,145.23750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-673,Orby 2 ULA,Analog,434.22500,434.22500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-674,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
+611,Boras 5 VLS,Analog,145.28750,145.28750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
+612,Dingle U,Digital,434.88750,432.88750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+613,Falkenberg VS,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Sweden,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
+614,Floda 1 ULI,Analog,433.47500,433.47500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+615,Floda 2 U,Fixed Digital,434.82500,432.82500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
+616,Guldheden 1 U,Analog,434.97500,432.97500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+617,Guldheden 2 VLE,Analog,144.57500,144.57500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
+618,Guldheden 3 U,Digital,434.78750,432.78750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+619,Guldheden 4 US,Analog,434.65000,432.65000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+620,Guldheden 5 VS,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+621,Guldheden 6 VLE,Analog,144.67500,144.67500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
+622,Guldheden 7 U,Analog,434.60000,432.60000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+623,Halmstad 1 VS,Analog,145.67500,145.07500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+624,Halmstad 2 U,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+625,Halmstad 3 U,Fixed Digital,434.92500,432.92500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+626,Hjo VLS,Analog,145.23750,145.23750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+627,Hono 1 VLE,Analog,144.62500,144.62500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
+628,Karlsborg V,Analog,145.76250,145.16250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,94.8,94.8,None,Carrier/CTC,None,OFF,0,0
+629,Kinnekulle 1 V,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+630,Kinnekulle 2 U,Analog,434.95000,432.95000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+631,Kortedala 1 VLE,Analog,144.60000,144.60000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
+632,Kortedala 2 V,Digital,145.58750,144.98750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+633,Kullavik VLS,Analog,145.28750,145.28750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+634,Kungsbacka 1 VLE,Analog,144.65000,144.65000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
+635,Kungsbacka 2 V,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+636,Kungsbacka 3 U,Analog,434.72500,432.72500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+637,Kungshamn VS,Fixed Digital,145.67500,145.07500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,94.8,94.8,None,Carrier/CTC,None,OFF,0,0
+638,Kungalv 1 V,Analog,145.61250,145.01250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+639,Kungalv 2 U,Analog,434.73750,432.73750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+640,Kungalv 3 U,Analog,434.90000,432.90000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+641,Lerum U,Analog,434.77500,432.77500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+642,Lysekil US,Analog,434.80000,432.80000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
+643,Langedrag VLE,Analog,144.52500,144.52500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
+644,Mariestad UE,Analog,434.90000,432.90000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+645,Myggenas VLE,Analog,144.66250,144.66250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
+646,Molndal 1 VEI,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
+647,Molndal 2 UEI,Analog,434.70000,432.70000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
+648,Molnlycke VLE,Analog,144.58750,144.58750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
+649,Skara 3 U,Fixed Digital,434.98750,432.98750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+650,Skene 1 VEI,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,94.8,94.8,None,Carrier/CTC,None,OFF,0,0
+651,Skene 2 UHI,Digital,433.56250,433.56250,High,12.5KHz,None,Always,None,3,Off,0,0,1,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+652,Skene 3 UEI,Analog,434.95000,432.95000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,94.8,94.8,None,Carrier/CTC,None,OFF,0,0
+653,Skarsjon VLE,Analog,144.55000,144.55000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,146.2,146.2,None,Carrier/CTC,None,OFF,0,0
+654,Skovde 1 V,Analog,145.68750,145.08750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+655,Skovde 2 U,Analog,434.82500,432.82500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+656,Stenungsun 2 VSE,Fixed Digital,145.71250,145.11250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+657,Tanumshede VS,Fixed Digital,145.57500,144.97500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
+658,Tidaholm V,Analog,145.63750,145.03750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
+659,Torup US,Analog,434.88750,432.88750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+660,Trollhattan 1 V,Fixed Digital,145.76250,145.16250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+661,Trollhattan 3,Fixed Digital,434.87500,432.87500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
+662,Uddevalla 1 VS,Fixed Digital,145.73750,145.13750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+663,Ulricehamn 1 V,Analog,145.67500,145.07500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
+664,Ulricehamn 2 U,Analog,434.67500,432.67500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
+665,Varberg 1 V,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+666,Varberg 2 U,Analog,434.70000,432.70000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+667,Vedum VS,Analog,145.78750,145.18750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,218.1,218.1,None,Carrier/CTC,None,OFF,0,0
+668,Vargarda U,Analog,434.85000,432.85000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,118.8,118.8,None,Carrier/CTC,None,OFF,0,0
+669,Amal U,Analog,434.60000,432.60000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+670,Alvangen U,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+671,Ockero 1 VS,Analog,145.75000,145.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,114.8,114.8,None,Carrier/CTC,None,OFF,0,0
+672,Ockero 2 U,Digital,434.85000,432.85000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,6,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+673,Orby 1 VLSE,Analog,145.23750,145.23750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+674,Orby 2 ULA,Analog,434.22500,434.22500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM6,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
 675,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
 676,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
 677,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
@@ -703,7 +703,7 @@ No.,Channel Name,Channel Type,RX Frequency[MHz],TX Frequency[MHz],Power,Band Wid
 702,Algutsrum 3 USE,Analog,434.60000,432.60000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
 703,Bjarnum,Fixed Digital,434.95000,432.95000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
 704,Blentarp 2 U,Analog,434.85000,432.85000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
-705,Bredaryd V,Analog,145.68750,145.08750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Sweden,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
+705,Bredaryd V,Analog,145.68750,145.08750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
 706,Borgholm 1 VSE,Analog,145.66250,145.06250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
 707,Borgholm 2 USE,Analog,434.77500,432.77500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
 708,Borgholm 3 VLS,Analog,145.31250,145.31250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
@@ -716,60 +716,60 @@ No.,Channel Name,Channel Type,RX Frequency[MHz],TX Frequency[MHz],Power,Band Wid
 715,Emmaboda 2 U,Fixed Digital,434.78750,432.78750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
 716,Eslov 2 U,Analog,434.81250,432.81250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
 717,Everod VLS,Analog,145.23750,145.23750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-718,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
-719,Gladsax 1 VI,Digital,145.57500,144.97500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-720,Gladsax 2 U,Analog,434.88750,432.88750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
-721,Hallandsas 1 VS,Analog,145.78750,145.18750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,225.7,225.7,None,Carrier/CTC,None,OFF,0,0
-722,Hallandsas 2 US,Analog,434.66250,432.66250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
-723,Helsingborg 2 U,Digital,434.60000,432.60000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-724,Hillerstorp U,Analog,434.60000,432.60000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
-725,Hultsfred V,Analog,145.76250,145.16250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-726,Huskvarna U,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
+718,Gladsax 1 VI,Digital,145.57500,144.97500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+719,Gladsax 2 U,Analog,434.88750,432.88750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
+720,Hallandsas 1 VS,Analog,145.78750,145.18750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,225.7,225.7,None,Carrier/CTC,None,OFF,0,0
+721,Hallandsas 2 US,Analog,434.66250,432.66250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
+722,Helsingborg 2 U,Digital,434.60000,432.60000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+723,Hillerstorp U,Analog,434.60000,432.60000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
+724,Hultsfred V,Analog,145.76250,145.16250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+725,Huskvarna 1 U,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
+726,Huskvarna 2 V,Analog,145.75000,145.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
 727,Hoor U,Digital,434.91250,432.91250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-728,Jonkoping 2 V,Analog,145.75000,145.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
-729,Jonkoping 3 U,Digital,434.97500,432.97500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-730,Jonkoping 4 VS,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
-731,Karlshamn U,Analog,434.92500,432.92500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
-732,Karlskrona 1 V,Analog,145.75000,145.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
-733,Karlskrona 2 U,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-734,Kristiansta 1 VS,Analog,145.73750,145.13750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
-735,Kristianstad 2 U,Digital,434.52500,432.52500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-736,Linderod VI,Digital,145.58750,144.98750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,14,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-737,Ljungby VSE,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,94.8,94.8,None,Carrier/CTC,None,OFF,0,0
-738,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
-739,Lund 2 U,Digital,434.58750,432.58750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-740,Lund 3 U,Analog,434.72500,432.72500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,1,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
-741,Lonsboda 2 U,Digital,434.95000,432.95000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-742,Malmo 1 UI,Digital,434.61250,432.61250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-743,Malmo 2 U,Digital,434.77500,432.77500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-744,Moheda VSE,Analog,145.63750,145.03750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,225.7,225.7,None,Carrier/CTC,None,OFF,0,0
-745,Morbylanga VSE,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
-746,Nybro V,Analog,145.68750,145.08750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-747,Nassjo 1 V,Digital,145.58750,144.98750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-748,Nassjo 2 V,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
-749,Nassjo 3 U,Analog,434.85000,432.85000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-750,Nassjo 4 U,Digital,434.90000,432.90000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-751,Olofstrom 1 VE,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,67.0,67.0,None,Carrier/CTC,None,OFF,0,0
-752,Olofstrom 2 UI,Digital,434.71250,432.71250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-753,Oskarshamn 1 V,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-754,Oskarshamn 2 U,Analog,434.72500,432.72500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-755,Sjobo U,Digital,434.92500,432.92500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-756,Spjutsbygd 1 VS,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
-757,Soderasen 1 VS,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-758,Soderasen 2 U,Fixed Digital,434.65000,432.65000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
-759,Sodra_Vi 1 U,Digital,434.66250,432.66250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-760,Sodra_Vi 2 ULAE,Analog,433.50000,433.50000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-761,Solvesborg 2 U,Analog,434.62500,432.62500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,67.0,67.0,None,Carrier/CTC,None,OFF,0,0
-762,Tomelilla U,Fixed Digital,434.63750,432.63750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
-763,Vetlanda 1 V,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
-764,Vetlanda 2 U,Analog,434.62500,432.62500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
-765,Vitaby V,Analog,145.61250,145.01250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
-766,Varnamo 1 V,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
-767,Vastervik 1 V,Analog,145.67500,145.07500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
-768,Vastervik 2 U,Digital,434.67500,432.67500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-769,Vaxjo 1 VSE,Analog,145.67500,145.07500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
-770,Vaxjo 2 U,Digital,434.70000,432.70000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-771,Vaxjo 3 VA,Analog,145.57500,144.97500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
+728,Jonkoping 3 U,Digital,434.97500,432.97500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+729,Jonkoping 4 VS,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
+730,Karlshamn U,Analog,434.92500,432.92500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
+731,Karlskrona 1 V,Analog,145.75000,145.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
+732,Karlskrona 2 U,Analog,434.75000,432.75000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+733,Kristiansta 1 VS,Analog,145.73750,145.13750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
+734,Kristianstad 2 U,Digital,434.52500,432.52500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+735,Linderod VI,Digital,145.58750,144.98750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,14,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+736,Ljungby VSE,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,94.8,94.8,None,Carrier/CTC,None,OFF,0,0
+737,Lund 2 U,Digital,434.58750,432.58750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+738,Lund 3 U,Analog,434.72500,432.72500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,1,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
+739,Lund 4 V,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
+740,Lonsboda 2 U,Digital,434.95000,432.95000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+741,Malmo 1 UI,Digital,434.61250,432.61250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+742,Malmo 2 U,Digital,434.77500,432.77500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+743,Moheda VSE,Analog,145.63750,145.03750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,225.7,225.7,None,Carrier/CTC,None,OFF,0,0
+744,Morbylanga VSE,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
+745,Nybro V,Analog,145.68750,145.08750,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+746,Nassjo 1 V,Digital,145.58750,144.98750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+747,Nassjo 2 V,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
+748,Nassjo 3 U,Analog,434.85000,432.85000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+749,Nassjo 4 U,Digital,434.90000,432.90000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+750,Olofstrom 1 VE,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,67.0,67.0,None,Carrier/CTC,None,OFF,0,0
+751,Olofstrom 2 UI,Digital,434.71250,432.71250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+752,Oskarshamn 1 V,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+753,Oskarshamn 2 U,Analog,434.72500,432.72500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+754,Sjobo U,Digital,434.92500,432.92500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+755,Spjutsbygd 1 VS,Analog,145.72500,145.12500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
+756,Soderasen 1 VS,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+757,Soderasen 2 U,Fixed Digital,434.65000,432.65000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
+758,Sodra_Vi 1 U,Digital,434.66250,432.66250,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+759,Sodra_Vi 2 ULAE,Analog,433.50000,433.50000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+760,Solvesborg 2 U,Analog,434.62500,432.62500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,67.0,67.0,None,Carrier/CTC,None,OFF,0,0
+761,Tomelilla U,Fixed Digital,434.63750,432.63750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
+762,Vetlanda 1 V,Analog,145.62500,145.02500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
+763,Vetlanda 2 U,Analog,434.62500,432.62500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
+764,Vitaby V,Analog,145.61250,145.01250,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
+765,Varnamo 1 V,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
+766,Vastervik 1 V,Analog,145.67500,145.07500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,77.0,77.0,None,Carrier/CTC,None,OFF,0,0
+767,Vastervik 2 U,Digital,434.67500,432.67500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+768,Vaxjo 1 VSE,Analog,145.67500,145.07500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
+769,Vaxjo 2 U,Digital,434.70000,432.70000,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+770,Vaxjo 3 VA,Analog,145.57500,144.97500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,156.7,156.7,None,Carrier/CTC,None,OFF,0,0
+771,Orkelljunga U,Fixed Digital,434.97500,432.97500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
 772,Orkelljunga U,Fixed Digital,434.97500,432.97500,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM7,Default,7,Slot 2,0,None,1,0,0,0,N0CALL,79.7,79.7,None,Carrier/CTC,None,OFF,0,0
 773,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
 774,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
@@ -834,7 +834,7 @@ No.,Channel Name,Channel Type,RX Frequency[MHz],TX Frequency[MHz],Power,Band Wid
 833,Hovassfjell V,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Norway,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,192.8,192.8,None,Carrier/CTC,None,OFF,0,0
 834,Kirkenes V,Analog,145.75000,145.15000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Norway,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
 835,Kongsberg 1 U,Digital,434.83750,432.83750,High,12.5KHz,None,Always,None,3,Off,0,0,0,0,0,0,0,0,0,Norway,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
-836,Kongsberg 2 V,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Norway,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
+836,Kongsberg 2 V,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Norway,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,74.4,74.4,None,Carrier/CTC,None,OFF,0,0
 837,Kongsberg 3 U,Analog,434.62500,432.62500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Norway,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
 838,Kongsvinger 1 U,Analog,434.62500,432.62500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Norway,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,71.9,71.9,None,Carrier/CTC,None,OFF,0,0
 839,Kongsvinger 3 V,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Norway,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,71.9,71.9,None,Carrier/CTC,None,OFF,0,0
@@ -1703,7 +1703,7 @@ No.,Channel Name,Channel Type,RX Frequency[MHz],TX Frequency[MHz],Power,Band Wid
 1702,Burfell V,Analog,145.70000,145.10000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
 1703,Reykjavik 1 V,Analog,145.60000,145.00000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,None,None,None,Carrier/CTC,None,OFF,0,0
 1704,Reykjavik 2 V,Analog,145.65000,145.05000,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,88.5,88.5,None,Carrier/CTC,None,OFF,0,0
-1705,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
+1705,Thrandarhlidha V,Analog,145.77500,145.17500,High,12.5KHz,None,Allow TX,None,3,Off,0,0,0,0,0,0,0,0,0,Regional SM0,Default,0,Slot 2,0,None,1,0,0,0,N0CALL,88.5,88.5,None,Carrier/CTC,None,OFF,0,0
 1706,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
 1707,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
 1708,,Analog,00.00000,00.00000,Low,12.5KHz,None,Allow TX,None,0,Off,0,0,0,0,0,0,0,0,0,None,None,0,Slot 1,0,None,1,0,0,0,N0CALL,00.0,00.0,None,Carrier/CTC,None,OFF,0,0
